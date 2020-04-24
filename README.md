@@ -1,2 +1,5 @@
-# analisis-parcial2
-Examen parcial 2 del curso de Análisis y Diseño de Sistemas I
+# Análisis y Diseño de Sistemas II Examen Parcial 2
+
+Por favor leer cuidadosamente las instrucciones en su examen.
+
+
