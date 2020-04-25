@@ -6,10 +6,10 @@ Por favor leer cuidadosamente las instrucciones en su examen.
 
 ### Capa de Entidades
 
-**VehicleEntity** almacena los datos de un vehículo. Por ejemplo número de placa, modelo, color, marca, etc.
-**VehicleOwnerEntity** almacena los datos del propietario del vehículo.
-**VehicleServiceHistoryEntryEntity** almacena los datos de un registro individual del historial de servicios que se le han realizado al vehículo. Cada vez que un vehículo egresa del taller, se genera un nuevo registro.
-**ServiceOrderEntity** almacena los datos de una orden de servicio. Cada vez que el vehículo es ingresado al taller se genera una orden nueva.
+- **VehicleEntity** almacena los datos de un vehículo. Por ejemplo número de placa, modelo, color, marca, etc.
+- **VehicleOwnerEntity** almacena los datos del propietario del vehículo.
+- **VehicleServiceHistoryEntryEntity** almacena los datos de un registro individual del historial de servicios que se le han realizado al vehículo. Cada vez que un vehículo egresa del taller, se genera un nuevo registro.
+- **ServiceOrderEntity** almacena los datos de una orden de servicio. Cada vez que el vehículo es ingresado al taller se genera una orden nueva.
 **MechanicEntity** almacena los datos específicos de un mecánico.
 **TechnicianEntity** almacena los datos de un técnico automotriz. Por ejemplo su especialidad o área de trabajo.
 **AssistantEntity** almacena los datos de un asistente de mecánica.
