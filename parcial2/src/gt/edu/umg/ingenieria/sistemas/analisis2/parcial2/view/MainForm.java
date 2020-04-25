@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package gt.edu.umg.ingenieria.sistemas.analisis2.parcial2.view;
 
 import gt.edu.umg.ingenieria.sistemas.analisis2.parcial2.entity.ServiceOrderEntity;
@@ -12,10 +7,6 @@ import gt.edu.umg.ingenieria.sistemas.analisis2.parcial2.service.IBrakeRepairSer
 import gt.edu.umg.ingenieria.sistemas.analisis2.parcial2.service.IVehicleReceiptService;
 import gt.edu.umg.ingenieria.sistemas.analisis2.parcial2.service.VehicleReceipt;
 
-/**
- *
- * @author joshi
- */
 public class MainForm extends javax.swing.JFrame {
 
     public MainForm() {
